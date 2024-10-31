@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: movies
+  data:
+    mongodb:
+      database: movie-api-db
+      uri: mongodb+srv://kemmatty:Thisthingsucks%40123@cluster0.daopb.mongodb.net
